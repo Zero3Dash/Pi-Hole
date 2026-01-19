@@ -1,0 +1,27 @@
+!
+! Title: Youtube AD Block
+! Last modified: 19 Jan 2025
+! 
+www.youtube.com##ytd-promoted-sparkles-web-renderer
+www.youtube.com##ytd-carousel-ad-renderer
+www.youtube.com##ytd-display-ad-renderer
+www.youtube.com##ytd-rich-item-renderer:has( > div > ytd-display-ad-renderer )
+www.youtube.com##.ad-container
+www.youtube.com##.video-ads
+www.youtube.com##.ytp-ad-progress-list
+www.youtube.com##.ytd-search-pyv-renderer
+www.youtube.com##.iv-promo
+www.youtube.com###player-ads
+www.youtube.com###masthead-ad
+www.youtube.com##ytd-ad-slot-renderer
+www.youtube.com##ytd-rich-item-renderer:has( > div > ytd-ad-slot-renderer)
+www.youtube.com###video-masthead
+www.youtube.com##ytd-rich-section-renderer:has( > #content > ytd-statement-banner-renderer)
+www.youtube.com/pagead/
+||www.youtube.com/ads/
+||www.youtube.com/yts/jsbin/www-pagead-id-
+||youtube.com/get_midroll_
+||pagead2.googlesyndication.com^
+||www.google.co.jp/pagead/lvz?
+||doubleclick.net^
+||2mdn.net^
