@@ -6,7 +6,7 @@
 ! Source: https://github.com/d3ward/toolz/blob/master/src/d3host.adblock
 
 ! Type : Stable
-! Entries : 
+! Entries : 15
 ! Updated On: 22/09/2026
 ! Created by: zero3dash
 
